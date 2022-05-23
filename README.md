@@ -11,6 +11,8 @@ seqgan_input.ipynb
 
 execute-hiseqgan.py
 
+python execute-hiseqgan.py --data=wm5-normalize --filename=seqGAN_input_hs12_22.txt --target=id --generated_num=100 --total_batch=50 --batch_size=5 --seq_length=40
+
 seqgan_input.ipynb
 
 final
