@@ -1,0 +1,9 @@
+Dribble Smash Defensive_short Net Net_smash 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Net_lift Drop Net_lift Clear Clear Drop Net Net_lift Clear 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Dribble Clear Clear Clear Drop Net Net_lift Clear Smash Drive Dribble Clear Drop Net Net_lift Smash Dribble Clear Drop 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Net_lift Smash 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Dribble Smash Defensive_short Net 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Net_lift Smash Defensive_short Net_lift Clear 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Dribble Smash Defensive_short Net_lift Smash Drive Defensive_short Net_smash Drive Drive Drive 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Net_lift Smash Defensive_short Net_lift Drop 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Dribble Smash 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

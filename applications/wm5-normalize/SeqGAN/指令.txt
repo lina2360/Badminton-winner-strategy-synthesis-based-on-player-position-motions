@@ -1,0 +1,3 @@
+python execute-hiseqgan.py --data=wm5-normalize --filename=seqGAN_input_tk2_11.txt --target=id --generated_num=100 --total_batch=50 --batch_size=5 --seq_length=40
+seqGAN_input_tk1_12
+python execute-hiseqgan.py --data=wm5-normalize --filename=seqGAN_input_hs11_21.txt --target=id --generated_num=100 --total_batch=50 --batch_size=5 --seq_length=40
