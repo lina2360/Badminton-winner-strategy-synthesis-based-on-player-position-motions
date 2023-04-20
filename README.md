@@ -18,3 +18,5 @@ python execute-hiseqgan.py --data=wm5-normalize --filename=seqGAN_input_hs12_22.
 seqgan_output.ipynb(seqganoutput)
 
 final
+
+0420
