@@ -1,6 +1,8 @@
 # Badminton-winner-strategy-synthesis-based-on-player-position-motions
 
 ## The flows for the paper
+
+<center><img src='./image/framenew.drawio.png' width='900px'></center>
 1. download video from Youtube or other website, and use **preprocessing.ipynb** to do the screenshots for each 0.5 second from a video.
 
 ```
@@ -40,7 +42,7 @@ seqgan_output.ipynb(seqganoutput)
 ```
 6. Statistic
 
-## Dataprocessing
+## Preprocessing
 
 ## Mask-RCNN
 
