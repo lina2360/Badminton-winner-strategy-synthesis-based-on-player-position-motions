@@ -14,7 +14,7 @@ preprocessing.ipynb
 2. input screenshots into the Mask-RCNN
 
 ```
-mrcnn
+https://drive.google.com/drive/u/0/folders/1_a5xSPQmE2_ODqcY9OuobZNOXugOBC2b
 ```
 
 3. predict diraction for each shuttlecock by Bi-LSTM and logic control
