@@ -42,6 +42,14 @@ seqgan_output.ipynb(seqganoutput)
 ```
 6. Statistic
 
+```
+pie chart(1 com).ipynb
+pie chart(2 com).ipynb
+pie chart(3 com).ipynb
+
+攻擊比例統計分析.ipynb
+```
+
 ## Preprocessing
 
 ## Mask-RCNN
