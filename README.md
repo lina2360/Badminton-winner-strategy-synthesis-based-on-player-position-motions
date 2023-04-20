@@ -1,12 +1,13 @@
 # Badminton-winner-strategy-synthesis-based-on-player-position-motions
 **The flows for the paper**
-1,download video from Youtube or other website, and use
+
+1. download video from Youtube or other website, and use
 
 preprocessing.ipynb
 
 to do the screenshots for each 0.5 second from a video.
 
-2.input 
+2. input 
 
 mrcnn
 
