@@ -7,7 +7,7 @@
 preprocessing.ipynb
 ```
 
-to do the screenshots for each 0.5 second from a video.
+   to do the screenshots for each 0.5 second from a video.
 
 2. input screenshots into the Mask-RCNN
 
