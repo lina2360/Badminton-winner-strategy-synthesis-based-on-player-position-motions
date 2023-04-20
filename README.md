@@ -40,4 +40,14 @@ seqgan_output.ipynb(seqganoutput)
 ```
 6. Statistic
 
+## Dataprocessing
+
+## Mask-RCNN
+
+## BiLSTM
+
+## SeqGAN
+
+## Statistic
+
 
