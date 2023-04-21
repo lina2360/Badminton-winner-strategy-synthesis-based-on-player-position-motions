@@ -6,7 +6,7 @@
 
 ## 1. Preprocessing
 
-download video from Youtube or other website, and use **preprocessing.ipynb** to do the screenshots for each 0.5 second from a video.
+download video from Youtube, and use **preprocessing.ipynb** to do the screenshots for each 0.5 second from a video.
 
 ```
 preprocessing.ipynb
