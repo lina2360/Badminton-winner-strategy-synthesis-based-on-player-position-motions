@@ -54,7 +54,6 @@ pie chart(2 com).ipynb
 pie chart(3 com).ipynb
 
 攻擊比例統計分析.ipynb
-1111111
 ```
 
 
