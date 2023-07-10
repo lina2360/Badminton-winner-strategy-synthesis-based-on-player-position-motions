@@ -4,6 +4,17 @@
 
 <center><img src='./image/framenew.drawio.png' width='900px'></center>
 
+File name: rawdatavideo, which includes the screenshots from badminton videos.
+```
+ChenYuFei:
+PusarlaVSindhu:
+PornpaweeChochuwang:
+RatchanokIntanon:
+AnSeYoung:
+CarolinaMarin: 
+
+```
+
 ## 1. Preprocessing
 
 download video from Youtube, and use **preprocessing.ipynb** to do the screenshots for each 0.5 second from a video.
