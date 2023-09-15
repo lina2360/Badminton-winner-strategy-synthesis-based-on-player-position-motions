@@ -39,7 +39,7 @@ predict diraction for each shuttlecock by Bi-LSTM and logic control
 https://github.com/chi110356042/logic_badminton
 ```
 
-## 4. automatic programs stage before SeqGAN 
+## 4. Automatic programs stage before SeqGAN 
 
 ```
 hit,birdy,score,seqs.ipynb(HIT2SCORE)
